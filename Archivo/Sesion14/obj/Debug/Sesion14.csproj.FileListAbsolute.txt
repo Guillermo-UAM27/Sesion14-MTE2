@@ -1,0 +1,10 @@
+C:\Users\guill\OneDrive\Documentos\Sesion14\Archivo\Sesion14\bin\Debug\Sesion14.exe.config
+C:\Users\guill\OneDrive\Documentos\Sesion14\Archivo\Sesion14\bin\Debug\Sesion14.exe
+C:\Users\guill\OneDrive\Documentos\Sesion14\Archivo\Sesion14\bin\Debug\Sesion14.pdb
+C:\Users\guill\OneDrive\Documentos\Sesion14\Archivo\Sesion14\obj\Debug\Sesion14.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Documentos\Sesion14\Archivo\Sesion14\obj\Debug\Sesion14.Form1.resources
+C:\Users\guill\OneDrive\Documentos\Sesion14\Archivo\Sesion14\obj\Debug\Sesion14.Properties.Resources.resources
+C:\Users\guill\OneDrive\Documentos\Sesion14\Archivo\Sesion14\obj\Debug\Sesion14.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Documentos\Sesion14\Archivo\Sesion14\obj\Debug\Sesion14.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\Sesion14\Archivo\Sesion14\obj\Debug\Sesion14.exe
+C:\Users\guill\OneDrive\Documentos\Sesion14\Archivo\Sesion14\obj\Debug\Sesion14.pdb

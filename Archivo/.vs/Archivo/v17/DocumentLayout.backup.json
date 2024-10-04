@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\guill\\OneDrive\\Documentos\\Sesion14\\Archivo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEAB6D11-8C89-42A2-948B-E3D0C4FEFD41}|Sesion14\\Sesion14.csproj|c:\\users\\guill\\onedrive\\documentos\\sesion14\\archivo\\sesion14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEAB6D11-8C89-42A2-948B-E3D0C4FEFD41}|Sesion14\\Sesion14.csproj|solutionrelative:sesion14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEAB6D11-8C89-42A2-948B-E3D0C4FEFD41}|Sesion14\\Sesion14.csproj|C:\\Users\\guill\\OneDrive\\Documentos\\Sesion14\\Archivo\\sesion14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEAB6D11-8C89-42A2-948B-E3D0C4FEFD41}|Sesion14\\Sesion14.csproj|solutionrelative:sesion14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEAB6D11-8C89-42A2-948B-E3D0C4FEFD41}|Sesion14\\Sesion14.csproj|c:\\users\\guill\\onedrive\\documentos\\sesion14\\archivo\\sesion14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEAB6D11-8C89-42A2-948B-E3D0C4FEFD41}|Sesion14\\Sesion14.csproj|solutionrelative:sesion14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BEAB6D11-8C89-42A2-948B-E3D0C4FEFD41}|Sesion14\\Sesion14.csproj|c:\\users\\guill\\onedrive\\documentos\\sesion14\\archivo\\sesion14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAB6D11-8C89-42A2-948B-E3D0C4FEFD41}|Sesion14\\Sesion14.csproj|solutionrelative:sesion14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\Documentos\\Sesion14\\Archivo\\Sesion14\\Form1.cs",
               "RelativeDocumentMoniker": "Sesion14\\Form1.cs",
               "ToolTip": "C:\\Users\\guill\\OneDrive\\Documentos\\Sesion14\\Archivo\\Sesion14\\Form1.cs",
               "RelativeToolTip": "Sesion14\\Form1.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwCUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T13:48:09.866Z",
               "IsPinned": true,
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\Documentos\\Sesion14\\Archivo\\Sesion14\\Form1.cs",
               "RelativeDocumentMoniker": "Sesion14\\Form1.cs",
